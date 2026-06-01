@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local continuity file (must stay untracked)
+PROJECT_HANDOFF.md
+
+# Runtime outputs
+output/*.md
